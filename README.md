@@ -120,7 +120,7 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
+~~~
 ## OUTPUT
 
 <img width="1472" height="704" alt="slot time table" src="https://github.com/user-attachments/assets/7d8ed397-fd1d-4315-9606-f4aa09f42720" />
